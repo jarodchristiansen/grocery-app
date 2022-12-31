@@ -37,6 +37,7 @@ const SignInForm = ({ providers }) => {
     <FormStyling onSubmit={handleSignInSubmit}>
       <>
         <div className="input-container">
+          <h2>Test</h2>
           <h2 className={"form-header"}>Sign In</h2>
 
           <label htmlFor="exampleInputEmail1" className="form-label">

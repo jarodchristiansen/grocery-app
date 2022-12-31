@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <HomePageContainer>
       <h1>Home Page Grocery App</h1>
+      <h2>Test deploy</h2>
     </HomePageContainer>
   );
 };
