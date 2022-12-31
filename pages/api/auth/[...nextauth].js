@@ -23,6 +23,8 @@ const options = {
     async signIn(user, account, metadata, profile) {
       let emails;
       let primaryEmail;
+
+      return true;
     },
   },
   providers: [
